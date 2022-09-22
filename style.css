@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Bebas Neue, sans-serif;
+    background: whitesmoke;
+}
+h1{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    letter-spacing: 5px;
+}
